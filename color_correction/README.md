@@ -25,4 +25,4 @@ The program expects the following
 
 ## Results
 
-![input](in/01-0025.jpg "input image") ![output image](out/01-0025.jpg "output image")
+![input](in/01-025.jpg "input image") ![output image](out/01-025.jpg "output image")
