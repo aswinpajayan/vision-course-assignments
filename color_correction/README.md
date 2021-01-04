@@ -22,3 +22,7 @@ The program expects the following
   - opencv
   - pdf2image
   - img2pdf
+
+## Results
+
+![input](in/01-0025.jpg "input image") ![output image](out/01-0025.jpg "output image")
